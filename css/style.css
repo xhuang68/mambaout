@@ -48,7 +48,8 @@ object {
 }
 img.photo{
   display: block;
-  max-width: 100%;
+  max-height: 50%;
+  max-width: auto;
   margin: 0 0 1rem;
   border-radius: 5px;
   box-shadow: 2px 2px 5px #888888;
